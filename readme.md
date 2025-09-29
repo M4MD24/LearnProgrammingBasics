@@ -23,25 +23,8 @@
         - [M4MD24](https://t.me/M4MD24)
 
     - **Channels**
-        - [Nullexia For Programming](https://t.me/nullexia)
+        - [Barmajaa](https://t.me/Barmajaa)
         - [Software Consulting](https://t.me/SoftwareConsulting)
-        - [Ayat W Ahadith](https://t.me/Ayat_W_Ahadith)
-        - [Staunch Brotherhood](https://t.me/StaunchBrotherhood)
-
-
-- **Youtube**
-    - [Nullexia For Programming](https://www.youtube.com/@NULLEXIA)
-
-
-- **GitHub**
-    - [M4MD24](https://github.com/M4MD24)
-
-
-- **Problem Solving Accounts**
-    - [Satr and CoderHub](https://profile.satr.codes/M4MD24/public/overview)
-    - [LeetCode](https://leetcode.com/u/M4MD24/)
-    - [HackerRank](https://www.hackerrank.com/profile/M4MD24)
-    - [Codeforces](https://codeforces.com/profile/M4MD24)
 
 ---
 
